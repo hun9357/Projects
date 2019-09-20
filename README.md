@@ -8,11 +8,16 @@ The list will automatically present sorted by name.
 <li>Used LinearSearch for unsorted Array of names.</li>
 
 # Features
-*Contain four input textboxs
-*Searach button
-*Add button
-*Delete button
-*Update button
+<li>Contain four input textboxs</li>
+<li>Searach button</li>
+<li>Add button</li>
+<li>Delete button</li>
+<li>Update button</li>
 
 # Improvement
-*Client wants following additional features:
+Client wants following additional features:
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
